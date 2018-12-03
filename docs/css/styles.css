@@ -24,21 +24,9 @@ body {
 #banner {
     clear: both;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background: url("../images/cards.jpg");
 
-}
-
-#left_banner {
-    width: 480px;
-    position: relative;
-}
-
-#hero-text {
-    color: white;
-    width: 367px;
-    top: 50px;
-    left: 50px;
 }
 
 #more {
@@ -46,9 +34,6 @@ body {
     top: 10px;
 }
 
-#more h2 {
-    color: blue;
-}
 
 
 #footer {
@@ -84,25 +69,6 @@ body {
 .rel_position {
     position: relative;
 }
-
-#about_mountain {
-    clear: right;
-    width: 290px;
-    padding-left: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-}
-
-#description {
-    float: left;
-    width: 560px;
-    padding-left: 30px;
-}
-
-#description p {
-    padding-left: 30px;
-}
-
 
 .std_border {
     border: 1px solid black;
